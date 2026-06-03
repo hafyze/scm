@@ -1,0 +1,450 @@
+[
+    {
+        "record_index": 0,
+        "stock": "Nike",
+        "sentence_id": 0,
+        "sentence_text": "RT @stardazzledd: Nike Windbreakers 💝\r\r\r\r\r\r\n\r\r\r\r\r\r\nShop: https://t.co/kgR2Ik4jFR\r\r\r\r\r\r\n\r\r\r\r\r\r\nFree Shipping Worldwide 💕 https://t.co/aGAqU7AnXM",
+        "vader_compound_score": 0.5106
+    },
+    {
+        "record_index": 1,
+        "stock": "Facebook",
+        "sentence_id": 0,
+        "sentence_text": "RT @RTAluvzAfridi: It’s all over Facebook.",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 1,
+        "stock": "Facebook",
+        "sentence_id": 1,
+        "sentence_text": "Twitter world needs to see this too.",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 1,
+        "stock": "Facebook",
+        "sentence_id": 2,
+        "sentence_text": "FIND HIM AND PROMOTE HIM.",
+        "vader_compound_score": 0.3818
+    },
+    {
+        "record_index": 1,
+        "stock": "Facebook",
+        "sentence_id": 3,
+        "sentence_text": "He actually sang it AS GOOD AS…",
+        "vader_compound_score": 0.5622
+    },
+    {
+        "record_index": 2,
+        "stock": "Google",
+        "sentence_id": 0,
+        "sentence_text": "RT @warriors: “You are so much more than what Google told me &amp; now, fittingly, you are poised to be positioned among the elite of the elite…",
+        "vader_compound_score": 0.25
+    },
+    {
+        "record_index": 3,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "'Just walk out shopping': Amazon Go opens first Chicago location of its cashierless convenience store https://t.co/MyowDgunTw",
+        "vader_compound_score": 0.1779
+    },
+    {
+        "record_index": 4,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "@benGSchout I wish I knew!",
+        "vader_compound_score": 0.4574
+    },
+    {
+        "record_index": 4,
+        "stock": "nan",
+        "sentence_id": 1,
+        "sentence_text": "I found it uncredited via a Google image search and have been trying to find the artist!",
+        "vader_compound_score": -0.3164
+    },
+    {
+        "record_index": 4,
+        "stock": "nan",
+        "sentence_id": 2,
+        "sentence_text": "Anyone know?",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 5,
+        "stock": "Nike",
+        "sentence_id": 0,
+        "sentence_text": "The Nike Air Max Deluxe OG Is Releasing On August 10th\r\r\r\r\r\r\r\nhttps://t.co/e0DSUBvIY6 https://t.co/Q0xwUJyYVk",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 6,
+        "stock": "31/10/2017",
+        "sentence_id": 0,
+        "sentence_text": "Next",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 7,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "@Declan_Murphy82 @kujocelyn @GreenMtnBoy802 @FredTJoseph @Ryanair I woulda escalated my foot up his ass.",
+        "vader_compound_score": -0.5423
+    },
+    {
+        "record_index": 7,
+        "stock": "nan",
+        "sentence_id": 1,
+        "sentence_text": "If you don… https://t.co/TvUgnbQBkw",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 8,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "RT @amyklobuchar: I got the polygraph test Dr. Ford took showing truthfulness about her account in the record.",
+        "vader_compound_score": 0.4019
+    },
+    {
+        "record_index": 8,
+        "stock": "nan",
+        "sentence_id": 1,
+        "sentence_text": "To quote a judge: “law enfor…",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 9,
+        "stock": "02/09/2018",
+        "sentence_id": 0,
+        "sentence_text": "Netflix",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 10,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "Google in its infancy.",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 10,
+        "stock": "nan",
+        "sentence_id": 1,
+        "sentence_text": "[452.365] https://t.co/JuCeJMCGYL https://t.co/Ps3J0LCd0I",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 11,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "RT @YesWeCrann: Oh Nike... You’ve outdone yourselves with this one.",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 11,
+        "stock": "nan",
+        "sentence_id": 1,
+        "sentence_text": "And the soundtrack is 🔥🔥 https://t.co/IV92CkMJHR",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 12,
+        "stock": "29/12/2017",
+        "sentence_id": 0,
+        "sentence_text": "Costco",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 13,
+        "stock": "30/06/2017",
+        "sentence_id": 0,
+        "sentence_text": "eBay",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 14,
+        "stock": "Disney",
+        "sentence_id": 0,
+        "sentence_text": "Disney is considering rehiring film director James Gunn, who was fired for pedophilic Tweets that surfaced.",
+        "vader_compound_score": -0.5574
+    },
+    {
+        "record_index": 14,
+        "stock": "Disney",
+        "sentence_id": 1,
+        "sentence_text": "Meanwhi… https://t.co/eC3Tk44J2y",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 15,
+        "stock": "17/09/2018",
+        "sentence_id": 0,
+        "sentence_text": "Amazon",
+        "vader_compound_score": 0.1779
+    },
+    {
+        "record_index": 16,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "Just saw this on eBay &gt;&gt; #1196 #deals #USA Kipling Elody Handbag https://t.co/vvNYoqF4fK",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 17,
+        "stock": "22/10/2018",
+        "sentence_id": 0,
+        "sentence_text": "Facebook",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 18,
+        "stock": "105.37",
+        "sentence_id": 0,
+        "sentence_text": "30/07/2018",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 19,
+        "stock": "Ford",
+        "sentence_id": 0,
+        "sentence_text": "RT @1776Stonewall: So in 2012 Christine Ford claimed it was 4 men in the room when she was attacked, now she says there was only 2.",
+        "vader_compound_score": -0.4588
+    },
+    {
+        "record_index": 19,
+        "stock": "Ford",
+        "sentence_id": 1,
+        "sentence_text": "Her the…",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 20,
+        "stock": "31/01/2017",
+        "sentence_id": 0,
+        "sentence_text": "Cisco",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 21,
+        "stock": "03/09/2018",
+        "sentence_id": 0,
+        "sentence_text": "Apple",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 22,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "Check out NWT TORY BURCH FELIZ SOUL STRIPE LATTICE BACK ONE-PIECE SWIMSUIT L LARGE   SFS #OnePiece https://t.co/le3iDkwSev via @eBay",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 23,
+        "stock": "112.48",
+        "sentence_id": 0,
+        "sentence_text": "16/08/2018",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 24,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "Check out Christopher Blue Pants 6 Rust Stretch Cotton Casual Classic Fit Jeans Women's 6  https://t.co/TQmAbt4VSd via @eBay",
+        "vader_compound_score": 0.5106
+    },
+    {
+        "record_index": 25,
+        "stock": "TMobile",
+        "sentence_id": 0,
+        "sentence_text": "@USAOWWC @TMobile Check out my boutique\r\r\r\r\r\r\r\nhttps://t.co/YCVboqHyXI",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 26,
+        "stock": "1777.44",
+        "sentence_id": 0,
+        "sentence_text": "31/07/2018",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 27,
+        "stock": "13/09/2018",
+        "sentence_id": 0,
+        "sentence_text": "Next",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 28,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "I posted a new video to Facebook https://t.co/Oh8b9K6uqw",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 29,
+        "stock": "171.65",
+        "sentence_id": 0,
+        "sentence_text": "01/08/2018",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 30,
+        "stock": "83.31",
+        "sentence_id": 0,
+        "sentence_text": "15/07/2018",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 31,
+        "stock": "Nike",
+        "sentence_id": 0,
+        "sentence_text": "RT @TitusONeilWWE: Dear #BoycottNike folks,\r\r\r\r\r\r\r\nInstead of Burning/Trashing send whatever @Nike Gear you no longer want to me at this address…",
+        "vader_compound_score": 0.1779
+    },
+    {
+        "record_index": 32,
+        "stock": "22/10/2018",
+        "sentence_id": 0,
+        "sentence_text": "Facebook",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 33,
+        "stock": "Netflix",
+        "sentence_id": 0,
+        "sentence_text": "RT @WestSide_Do: *Me actually tryna Netflix &amp; Chill*\r\r\r\r\r\r\n\r\r\r\r\r\r\nHer: Pull your dick out nigga damn!",
+        "vader_compound_score": -0.7424
+    },
+    {
+        "record_index": 33,
+        "stock": "Netflix",
+        "sentence_id": 1,
+        "sentence_text": "Me: https://t.co/X6k9U5y9wB",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 34,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "RT @KicksDealsCA: We're expecting to receive the Nigel Sylvester x Air Jordan 1 High OG next weekend online at Nike CA in limited quantitie…",
+        "vader_compound_score": -0.2263
+    },
+    {
+        "record_index": 35,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "Get my Snapchat for $30 Amazon gift card to princessraiiny@gmail.com add your username to note https://t.co/smHkLJn9xU",
+        "vader_compound_score": 0.5574
+    },
+    {
+        "record_index": 36,
+        "stock": "79.51",
+        "sentence_id": 0,
+        "sentence_text": "06/08/2018",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 37,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "@UrsTrulyMsJudy I love how neither of us mentioned Next though lmfao.",
+        "vader_compound_score": 0.8271
+    },
+    {
+        "record_index": 38,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "RT @verge: Netflix is testing video promos that play in between episodes https://t.co/T6K2eK1UsE https://t.co/Wv6BAkbGvu",
+        "vader_compound_score": 0.34
+    },
+    {
+        "record_index": 39,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "RT @PrettyboiiDB_9: White people can’t wait to put the grocery divider on the conveyor belt at Kroger... bitch I don’t want yo raisins too…",
+        "vader_compound_score": -0.5423
+    },
+    {
+        "record_index": 40,
+        "stock": "30/09/2018",
+        "sentence_id": 0,
+        "sentence_text": "Ford",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 41,
+        "stock": "27/10/2018",
+        "sentence_id": 0,
+        "sentence_text": "Microsoft",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 42,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "Check out 2018 Spectra Saquon Barkley /99 Triple Relics Glove Silver Prizm Rookie RC https://t.co/KOY1UV3QSc @eBay",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 43,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "RT @SvenRoyalChef: 11/40 #Lunchbox #Recipes from #SvensRecipeScrapBook -Baked Apple Chips- Have you ever considered making your very own Ho…",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 44,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "Next week: Saturday 1st Sep",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 45,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "Facebook cracks down on opioid dealers after years of neglect - https://t.co/2WOHZAdNxM https://t.co/HHIMXGubje",
+        "vader_compound_score": -0.4588
+    },
+    {
+        "record_index": 46,
+        "stock": "104.4",
+        "sentence_id": 0,
+        "sentence_text": "19/07/2018",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 47,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "@tradingdotcom Still have Mike but I'll b*y for PayPal?",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 47,
+        "stock": "nan",
+        "sentence_id": 1,
+        "sentence_text": ":(",
+        "vader_compound_score": -0.4404
+    },
+    {
+        "record_index": 48,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "@MarkFloydThaut @eBay You guys find the coolest Disney artifacts!!!!",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 48,
+        "stock": "nan",
+        "sentence_id": 1,
+        "sentence_text": "🎠🏰",
+        "vader_compound_score": 0.0
+    },
+    {
+        "record_index": 49,
+        "stock": "nan",
+        "sentence_id": 0,
+        "sentence_text": "I posted a new video to Facebook https://t.co/XXIndh54Xj",
+        "vader_compound_score": 0.0
+    }
+]
