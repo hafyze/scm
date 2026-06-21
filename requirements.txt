@@ -11,4 +11,6 @@ wordcloud
 tensorflow
 torch
 transformers
+datasets
+accelerate
 jupyter
